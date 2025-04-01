@@ -32,3 +32,7 @@ body {
 .bg-custom {
   background-color: #FAFAFF; /* เปลี่ยนตรงนี้เป็นรหัสสีที่คุณต้องการ */
 }
+
+html {
+  scroll-behavior: smooth;
+}
