@@ -28,3 +28,7 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+.bg-custom {
+  background-color: #FAFAFF; /* เปลี่ยนตรงนี้เป็นรหัสสีที่คุณต้องการ */
+}
