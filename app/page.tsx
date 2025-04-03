@@ -1,5 +1,6 @@
 import Image from "next/image";
-import About from "./components/adout";
+import About from "./components/about";
+import Contact from "./components/contact";
 
 export default function Home() {
   return (
@@ -40,6 +41,7 @@ export default function Home() {
         </div>
       </main>
       <About />
+      <Contact />
     </>
   );
 }
