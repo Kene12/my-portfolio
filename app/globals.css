@@ -30,9 +30,17 @@ body {
 }
 
 .bg-custom {
-  background-color: #FAFAFF; /* เปลี่ยนตรงนี้เป็นรหัสสีที่คุณต้องการ */
+  background-color: #e5e5eb;
 }
 
 html {
   scroll-behavior: smooth;
+}
+
+.center-class{
+  text-align: center;
+}
+
+.text-stry{
+  font-size: 70px;
 }
