@@ -10,7 +10,7 @@ import {
     return (
       <>
         <section id="contact">
-          <main className="items-center justify-center bg-white ">
+          <main className="items-center justify-center bg-custom ">
             <div className="center-class ">
               <h1 className="text-stry font-bold text-black mb-5">Contact</h1>
             </div>

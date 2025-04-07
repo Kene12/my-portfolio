@@ -4,7 +4,7 @@ export default function About() {
   return (
     <>
         <section id="about">
-            <main className="min-h-screen bg-white flex items-center justify-center px-5 md:px-16 py-20">
+            <main className="min-h-screen bg-custom flex items-center justify-center px-5 md:px-16 py-20">
             <div className="grid grid-cols-1 md:grid-cols-2 items-center gap-10 max-w-7xl">
 
                 <div className="relative">
