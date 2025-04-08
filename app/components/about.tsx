@@ -29,7 +29,7 @@ export default function About() {
                     <a href="/#contact"  className="bg-black text-white px-5 py-2 rounded-md hover:bg-gray-800 transition">
                         Contact me
                     </a>
-                    <a href="/cv.pdf" className="border border-black text-black px-5 py-2 rounded-md hover:bg-gray-100 transition">
+                    <a href="/Resume_Panithan_Kunkaew.pdf" className="border border-black text-black px-5 py-2 rounded-md hover:bg-gray-100 transition">
                     Download CV
                     </a>
                 </div>
