@@ -26,7 +26,7 @@ export default function About() {
                     Let's collaborate and create something extraordinary together!
                 </p>
                 <div className="flex gap-4">
-                    <a href="/contact" className="bg-black text-white px-5 py-2 rounded-md hover:bg-gray-800 transition">
+                    <a href="/#contact"  className="bg-black text-white px-5 py-2 rounded-md hover:bg-gray-800 transition">
                         Contact me
                     </a>
                     <a href="/cv.pdf" className="border border-black text-black px-5 py-2 rounded-md hover:bg-gray-100 transition">

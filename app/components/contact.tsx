@@ -59,12 +59,11 @@ import {
 
                 <div className="space-y-6 text-gray-700">
                   <p>
-                    Drop me a line for inquiries, collaborations, speaking engagements,
-                    or just to say hello.
+                    Got an idea or want to collaborate? Let’s build something great together.
                   </p>
         
                   <div>
-                    <h2 className="font-bold text-xl text-black">Say hi,</h2>
+                    <h2 className="font-bold text-xl text-black">Let’s talk 👋</h2>
                     <p>panithankunkaewpd@gmail.com</p>
                   </div>
         
